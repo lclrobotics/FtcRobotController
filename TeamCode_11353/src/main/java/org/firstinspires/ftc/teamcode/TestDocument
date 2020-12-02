@@ -5,6 +5,8 @@ Code code and more code
 Second change
 Even more code
 Wow cool if statement bro
-If(My name is Nathan){
+If(name = Nathan){
 robot.setcool(100);
+} else {
+robot.setcool(0);
 }
